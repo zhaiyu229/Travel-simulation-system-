@@ -1,0 +1,4 @@
+﻿  Solution.cpp
+  TravelWindow.cpp
+c:\users\xiangyu\desktop\study\datastruct\travel\travel\solution.cpp(510): warning C4715: “currentState”: 不是所有的控件路径都返回值
+  Travel.vcxproj -> C:\Users\XIANGYU\Desktop\study\datastruct\Travel\x64\Release\Travel.exe
